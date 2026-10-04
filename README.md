@@ -2,7 +2,7 @@
 
 Qt Widgets ile yazılmış, fareyle meyve kesme oyunu. Görsel Programlama dersi için yaptığım bir okul projesidir, ders gereksinimlerinin ötesine geçen yeni özelliklerle genişletilmiş bir versiyondur.
 
-
+![Oyun ekran görüntüsü](docs/screenshot.png)
 
 ## Özellikler
 
